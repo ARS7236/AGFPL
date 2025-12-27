@@ -1,26 +1,28 @@
 # ARS7236 General Freedom Public License (AGFPL) v1
 
+**Version 1 – 2025-12-27**  
+© 2025 ARS7236 (@ARS7236 on social media, e.g., YouTube)
 ## TL;DR
-- Credit the original creator – e.g., "Credit: ARS7236"
-- You can modify and share the work, just follow these rules
-- Optional: Ask Original Creator of the work to be co-copyright author if you want
-- No suing the original author
-- You can close only sensitive files; most must stay open
-- Sus/fraud files = automatically open
-- AI-generated documentation = not valid
-- Abusing the license itself = declined, but fun bugs/visual tweaks allowed
-- AGFPL works alongside GNU GPLv3
-
+- **Credit the creator**: Always mention ARS7236 in README, about page, or startup message.  
+- **Modify & share**: You can change the program and distribute it, following AGFPL rules.  
+- **Human-readable docs**: Modifications should include clear documentation.  
+- **No suing**: You cannot take legal action against the original author.  
+- **Source closure rules**:  
+  - Full project closure for trivial or corporate reasons is **not allowed**.  
+  - Only **sensitive files** may be closed, the rest must stay open.  
+  - **Sus files** (fraud/scam/malicious) must remain open.  
+  - AI-generated documentation cannot justify closing source.  
+- **Fun tweaks allowed**: Visual mods, fun bugs, or harmless hacks are okay.  
+- **GPLv3 compatibility**: All AGFPL rules apply alongside GNU GPLv3.
 ## Full License
-See the [LICENSE](./LICENSE) file for full legal text.
-
-## How to Apply
-Add this at the top of your source files:
-"{product name}" – brief description
+See the [LICENSE](./LICENSE) file for the complete legal text.
+## How to Apply AGFPL
+Add this at the top of each source file:
+<program name> – brief description
 Copyright (C) <year> ARS7236
 
-This program is free software: you can redistribute and/or modify
-it under the terms of the ARS7236 General Freedom Public License (AGFPL),
+This program is free software: you may redistribute and/or modify it
+under the terms of the ARS7236 General Freedom Public License (AGFPL),
 based on GNU GPLv3 or later.
 
-NO WARRANTY. See LICENSE file for full details.
+NO WARRANTY.
