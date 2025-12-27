@@ -1,0 +1,100 @@
+               ARS7236 GENERAL FREEDOM PUBLIC LICENSE
+                       Version 1, 2025-12-27
+
+ Copyright (C) 2025 ARS7236 <https://your-website-or-contact.info>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+ The ARS7236 General Freedom Public License (AGFPL) is a free, copyleft license
+ for software and other works, based on the GNU GPLv3.
+
+ AGFPL is designed to guarantee your freedom to share, use, and modify all
+ versions of a program, and to ensure that freedom remains for all users.
+ You can apply it to your programs, too.
+
+ "Free" means freedom, not price. You may redistribute, charge for, or use the
+ software however you like, as long as all recipients get the same freedoms
+ you received, including access to source code and rights to modify and share.
+
+                            TERMS AND CONDITIONS
+
+ 0. Definitions
+   - "This License" = AGFPL v1.
+   - "Program" = any copyrightable work licensed under AGFPL.
+   - "You" = licensee. "Licensees" and "recipients" = individuals or organizations.
+   - "Modify" = copy/adapt work in a way that requires copyright permission.
+   - "Convey" = distribute or make the Program available to others.
+
+ 1. Source Code
+   - You must provide the preferred form of the work for making modifications.
+   - "Object code" = compiled or non-source forms.
+
+ 2. Basic Permissions
+   - You can run, modify, and share the Program freely.
+   - All rights granted are irrevocable as long as license terms are followed.
+   - Output from running the Program is covered only if it constitutes a covered work.
+
+ 3. Conveying Verbatim Copies
+   - You may share exact copies of the Program with copyright notice intact.
+   - You must give all recipients a copy of this License.
+   - You can charge any price or offer support for a fee.
+
+ 4. Conveying Modified Versions
+   - You may share modified versions if you:
+       a) Clearly mark changes and date them.
+       b) License the whole work under AGFPL.
+       c) Keep interactive interfaces showing appropriate legal notices (if applicable).
+
+ 5. Additional Permissions
+   - You may add **extra non-restrictive permissions** to your version, such as:
+       - Attribution requirements (“credit ARS7236 in documentation”)
+       - Encouraging certain types of use (education, research, non-profits)
+       - Any other fun or optional perks that **don’t remove freedoms**.
+   - You cannot impose further restrictions that would contradict AGFPL.
+
+ 6. No Warranty
+   - The Program comes “as-is” with **no warranty**.
+   - You assume all risk for its use or modification.
+
+ 7. Patents
+   - Contributors grant a royalty-free patent license for their contributions.
+   - Patent licenses cannot be used to limit AGFPL freedoms.
+
+ 8. CMW (Creator Mention Work)
+   - You must credit the original creator when using or sharing the work.
+   - Example: “Credit: ARS7236” or “Origin: [PROGRAM link]”.
+   - This applies to both verbatim and modified versions.
+
+ 9. Licensing
+   - If you want to copyright your work, you **can do so safely**.  
+   - You may **ask the original author to be included as a co-copyright author** (e.g., ARS7236).  
+   - Any co-copyright agreement should be **mutually agreed and documented**.  
+   - **No suing the original author**: You cannot take legal action against the origin author for this work; violations will be considered invalid and all rights revert against you.  
+   - **Closing source rules**:  
+       - You cannot fully close your open-source project for trivial or corporate reasons; only legitimate, documented reasons are acceptable.  
+       - You **may close only sensitive files** (e.g., critical secrets or private configs), but the rest of the project must remain open.  
+       - **Sus files rule**: Any files involved in scams, fraud, or other “sus” activity will automatically have their closed-source status revoked and must be fully open.  
+       - **AI documentation rule**: Any documentation or reasoning claimed to be AI-generated will be declined as justification for closing source or restricting use.  
+
+10. Abusing Rules
+   - Any attempt to **bypass or cheat the rules of AGFPLv1** will be **declined and invalid**.  
+   - This does **not** include bypassing the work itself for harmless/fun reasons (e.g., visual tweaks, fun bugs, personal experiments, easter eggs).  
+
+11. Licenses
+   - All rules of AGFPLv1 **also apply alongside GNU GPLv3**.  
+   - When using or modifying a work under AGFPLv1, the GNU GPLv3 rules are automatically in effect as well.  
+   - This ensures full legal compatibility and preserves all freedoms guaranteed by both licenses.  
+
+12. How to Apply AGFPL to Your Programs
+   - Add to top of each source file:
+     <program name> – brief description
+       Copyright (C) <year> ARS7236
+
+                                          This program is free software: you can redistribute and/or modify
+                                       it under the terms of the ARS7236 General Freedom Public License (AGFPL),
+                                                         based on the GNU GPLv3 or later.
+
+                                                                   NO WARRANTY.
+
