@@ -17,7 +17,7 @@ See the [LICENSE](./LICENSE) file for full legal text.
 ## How to Apply
 Add this at the top of your source files:
 
-"<<program name>>" – brief description
+"<product name>" – brief description
 Copyright (C) <year> ARS7236
 
 This program is free software: you can redistribute and/or modify
