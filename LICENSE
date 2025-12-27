@@ -2,13 +2,15 @@
                        Version 1, 2025-12-27
 
 Copyright (C) 2025 ARS7236 @ARS7236 on social media (e.g., YouTube)
+
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
                             Preamble
 
 The ARS7236 General Freedom Public License (AGFPL) is a free, copyleft license
-for software and other works, based on the GNU GPLv3.
+for software and other works. It is **based on the GNU General Public License v3 (GPLv3 or later)**,
+with the following additional terms for credit and encouragement.
 
 AGFPL guarantees your freedom to share, use, and modify all versions of a program,
 while ensuring that freedom remains for all users. You can apply it to your own programs.
@@ -51,7 +53,7 @@ including access to source code and rights to modify and share.
        - Attribution requirements ("Credit ARS7236 in documentation")
        - Encouraging educational, research, or non-profit use
        - Other optional perks that don’t remove freedoms
-   - You cannot impose restrictions that contradict AGFPL.
+   - You cannot impose restrictions that conflict with GPLv3 or AGFPL.
 
 6. No Warranty
    - The Program is provided "as-is", without any warranty.
@@ -69,22 +71,9 @@ including access to source code and rights to modify and share.
 9. Licensing
    - You may copyright your modifications safely.
    - You may ask the original author to be a co-copyright holder, with mutual agreement.
-   - No suing the original author: legal action against the origin author is invalid; all rights revert against you.
-   - Source closure rules:
-       - You cannot fully close your open-source project for trivial or corporate reasons.
-       - You may close only sensitive files (e.g., critical secrets), but the rest must remain open.
-       - Sus files rule: files involved in scams, fraud, or "sus" activity must remain open.
-       - AI documentation rule: AI-generated documentation or reasoning cannot justify closing source or restricting use.
+   - All other terms are governed by GPLv3. Subjective or moral rules (e.g., "sus files", "AI documentation") are **recommendations only** and should be followed in the spirit of freedom and respect.
 
-10. Abusing Rules
-    - Any attempt to bypass AGFPL rules will be declined and invalid.
-    - This does not include harmless/fun bypassing of the work itself (e.g., visual tweaks, fun bugs, easter eggs).
-
-11. Compatibility
-    - AGFPL rules also apply alongside GNU GPLv3.
-    - Using or modifying AGFPL works means GPLv3 rules are in effect, ensuring compatibility and full freedom.
-
-12. How to Apply AGFPL
+10. How to Apply AGFPL
     - Add to top of each source file:
 
 <program name> – brief description
@@ -95,3 +84,10 @@ under the terms of the ARS7236 General Freedom Public License (AGFPL),
 based on GNU GPLv3 or later.
 
 NO WARRANTY.
+
+---
+
+**Notes:**
+- AGFPL is fully compatible with GPLv3.
+- Subjective moral rules (like closing source for “trivial” reasons) are moved to README guidance and are not legally enforceable.
+- Versioning allows "or any later version" to future-proof the license.
