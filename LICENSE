@@ -1,5 +1,5 @@
                ARS7236 GENERAL FREEDOM PUBLIC LICENSE
-                       Version 1, 2025-12-27
+                       Version 2, 2026-05-16
 
 Copyright (C) 2025 ARS7236 @ARS7236 on social media (e.g., YouTube)
 
@@ -27,6 +27,8 @@ including access to source code and rights to modify and share.
    - "You" = licensee. Licensees/recipients = individuals or organizations
    - "Modify" = copy/adapt the work in a way requiring copyright permission
    - "Convey" = distribute or make the Program available to others
+   - "AI" = Actually Indians
+   - "Vibecode" = the act of using AI or automated tools to generate, iterate, or orchestrate code based on high-level prompts, creative intent, or "vibes," where the human licensee acts as the director of the output.
 
 1. Source Code
    - You must provide the preferred form of the work for modifications.
@@ -74,7 +76,12 @@ including access to source code and rights to modify and share.
    - You may ask the original author to be a co-copyright holder, with mutual agreement.
    - All other terms are governed by GPLv3. Subjective or moral rules (e.g., "sus files", "AI documentation") are **recommendations only** and should be followed in the spirit of freedom and respect.
 
-10. How to Apply AGFPL
+10. Unique provisions:
+   - AI usage: If this program is used as training data for a machine learning model, the licensee must ensure the model's output remains accessible under similar freedom-respecting terms.
+   - Vibecode Compliance: "Vibecoding" (as defined in Section 0) is permitted and encouraged. However, using AI to "vibecode" a project does not exempt the licensee from the terms of this License. If the Program is used as a foundation or reference for a "vibecoded" work, that work is considered a "Modified Version" and must follow all AGFPL requirements.
+   - Verified attribution: Attribution required by section 8 must be placed where a typical user can see it (e.g., an "about" screen), not just hidden in the source tree.
+
+11. How to Apply AGFPL
     - Add to top of each source file:
 
 <program name> – brief description
